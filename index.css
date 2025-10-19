@@ -68,10 +68,8 @@ select {
   padding: 10px 16px;
   font-weight: bold;
   border-radius: 8px;
-  cursor: pointer;
   width: 100%;
   margin-top: 10px;
-  transition: 0.3s;
 }
 
 .btn:hover {
@@ -108,3 +106,4 @@ ul {
     transform: translateY(0);
   }
 }
+
